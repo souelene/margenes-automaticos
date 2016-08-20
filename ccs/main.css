@@ -1,0 +1,16 @@
+.izquierda{
+
+padding: 30px;
+border:20px solid yellow;
+width: 200px;
+text-align: center;
+}
+
+
+.derecha{
+text-align:left;
+padding: 30px;
+border:20px solid yellow;
+width: 200px;
+margin-left:500px;
+}
